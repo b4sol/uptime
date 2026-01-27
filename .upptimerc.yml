@@ -16,3 +16,7 @@ sites:
     port: 80
     check: "tcp-ping"
     ipv6: true
+
+
+notifications:
+  - type: telegram

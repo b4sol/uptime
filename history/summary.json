@@ -4,36 +4,40 @@
     "url": "https://www.centroigp.it/",
     "icon": "https://icons.duckduckgo.com/ip3/www.centroigp.it.ico",
     "slug": "word-press-grillo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1062,
     "timeDay": 1062,
     "timeWeek": 1062,
     "timeMonth": 1062,
     "timeYear": 1062,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-28": 1
+    }
   },
   {
     "name": "Dolibarr Grillo",
     "url": "https://gestionale.centroigp.it/",
     "icon": "https://icons.duckduckgo.com/ip3/gestionale.centroigp.it.ico",
     "slug": "dolibarr-grillo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1431,
     "timeDay": 1431,
     "timeWeek": 1431,
     "timeMonth": 1431,
     "timeYear": 1431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-28": 0
+    }
   },
   {
     "name": "SuiteCRM JRS",
